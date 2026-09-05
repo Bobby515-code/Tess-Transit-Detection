@@ -1,0 +1,10 @@
+lightkurve>=2.6
+astropy>=5.0
+numpy
+pandas
+matplotlib
+scipy
+wotan
+celerite2
+batman-package
+transitleastsquares

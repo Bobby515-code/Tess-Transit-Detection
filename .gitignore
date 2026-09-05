@@ -1,0 +1,14 @@
+# Large derived/intermediate data -- regenerable by running the detrending
+# scripts against the raw data already included below. Excluded to keep the
+# repo lightweight; see README for how to regenerate them.
+data/*_flattened.csv
+data/*_flattened_gp.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
